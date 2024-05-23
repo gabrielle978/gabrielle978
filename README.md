@@ -7,7 +7,8 @@
 ## Know me better!
 <h5><em>PT - </em> Iniciante no universo da programação, busco por conexões a amizades para um melhor aprendizado e crescimento na àrea!</h5>
 <h5><em>EN - </em> I'm a beginner programmer looking for connections and friendship for a better learning and growth on area!</h5>
-## Other interests: 
+
+### Other interests: 
 * Gym 🏋️‍♀️
 * Music🎧
 * Learn new things📚
