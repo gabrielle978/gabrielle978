@@ -22,10 +22,11 @@
 [![Discord](https://img.shields.io/badge/Discord-97195D?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HnZS8JRG)
 
 ## Studying about:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrielle978&theme=transparent&bg_color=000&border_color=97195D&show_icons=true&icon_color=97195D&title_color=97195D&text_color=FFF)
